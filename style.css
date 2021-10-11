@@ -1,0 +1,20 @@
+body{
+background: lightcoral;
+color: whitesmoke;
+}
+
+.heading{
+   width: 80%;
+   font-size: 23px;
+   margin: 0px;
+}
+
+#div_camera{
+  width: 350px;
+  height: 310px;
+  border: 2px dashed black;  
+}
+
+.Object_name{
+    color: darkslategray;
+}
